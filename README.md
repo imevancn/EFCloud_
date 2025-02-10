@@ -1,4 +1,5 @@
-# EFCloud_
+# EFCloud_ECCloud
+
 # EFCloud被XSUS接管
 
 EFCloud用户可以直接转到XSUS中继续使用，方法如下：
